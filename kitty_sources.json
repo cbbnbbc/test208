@@ -1,0 +1,182 @@
+[
+  {
+    "id": "dadizy11",
+    "name": "DADi资源",
+    "api": "https://dadizy11.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "xiaojizy",
+    "name": "小鸡资源",
+    "api": "https://xiaojizy.live/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "hsckzy001",
+    "name": "HSCK资源",
+    "api": "https://hsckzy001.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "yuanlib",
+    "name": "源力资源",
+    "api": "https://yuanlib.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "fqzy",
+    "name": "FQ资源",
+    "api": "https://fqzy.me/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "heiheiziyuan",
+    "name": "黑黑资源",
+    "api": "https://heiheiziyuan.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "hlzy",
+    "name": "HL资源",
+    "api": "https://hlzy.my/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "naixxzy",
+    "name": "奶香香资源",
+    "api": "https://naixxzy.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "thzy1",
+    "name": "桃花资源",
+    "api": "https://thzy1.me/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "aosikazy1",
+    "name": "奥斯卡资源",
+    "api": "https://aosikazy1.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "sex8zy1",
+    "name": "Sex8资源",
+    "api": "https://sex8zy1.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "danaizizy1",
+    "name": "大奶子资源",
+    "api": "https://danaizizy1.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "didizy",
+    "name": "滴滴资源",
+    "api": "https://didizy.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "doudouzy",
+    "name": "豆豆资源",
+    "api": "https://doudouzy.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  },
+  {
+    "id": "jingpinx",
+    "name": "精品资源",
+    "api": "https://jingpinx.com/api.php/provide/vod/",
+    "nsfw": true,
+    "type": 0,
+    "logo": "",
+    "desc": "候选 MacCMS 采集源；接口尚需在客户端中逐站验证",
+    "extra": {
+      "gfw": false
+    }
+  }
+]
